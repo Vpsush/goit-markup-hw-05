@@ -156,7 +156,7 @@ padding-bottom: 0;
 }
 .btn{
     font-family: "Roboto", sans-serif;
-    position: relative;
+    
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -331,6 +331,7 @@ transition: color var(--transition), border-color var(--transition) ;
 .list-button{
     justify-content: center; 
     margin-bottom: 72px; 
+    position: relative;
 }
 .list-features{
     width: calc((100% - 72px) / 4); 
