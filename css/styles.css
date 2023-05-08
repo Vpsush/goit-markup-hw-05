@@ -131,7 +131,7 @@ justify-content: center;
 .body-nav-link::after  {
     display: block;
     content: "";
-    position: relative;
+    position: absolute;
     left: 0;
 width: 48px;
 height: 4px;
@@ -423,6 +423,7 @@ transition: color var(--transition), border-color var(--transition) ;
     margin-bottom: 48px;
     }
 .menu{
+    position: relative;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
