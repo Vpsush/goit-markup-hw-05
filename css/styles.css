@@ -237,6 +237,7 @@ transition: color var(--transition), border-color var(--transition) ;
 .customers-list-link:focus{
     color: #404bbf; 
     border-color: #404bbf; 
+    transform: translateY(0%);
 }
 
 .customers-section{
