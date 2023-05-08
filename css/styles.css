@@ -131,11 +131,12 @@ justify-content: center;
 .body-nav-link::after  {
     display: block;
     content: "";
-    /* position: absolute; */
+    /* position: relative; */
+    /* left: 0; */
 width: 48px;
 height: 4px;
 top: 44px;
-background: #404BBF;
+color: #404BBF;
 border-radius: 2px;
 padding-bottom: 0;
     
