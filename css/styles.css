@@ -168,7 +168,7 @@ border-radius: 2px;
     padding: 12px 24px;
     border: 1px solid #e7e9fc;   
     border-radius: 4px;
-    transition: color var(--transition),background-color var(--transition), box-shadow var(--transition), border var(--logo-footer-portfolio) ;
+    transition: color var(--transition),background-color var(--transition), box-shadow var(--transition), border-color var(--logo-footer-portfolio) ;
       }
 .btn:hover,
 .btn:focus{
@@ -636,7 +636,7 @@ color: #FFFFFF;
     }
 .total-information:hover .overlay,
 .total-information:focus .overlay{
-    transform: translateY(0);
+    transform: translateY(0%);
 }
 .total-information-link{
     position: relative;
