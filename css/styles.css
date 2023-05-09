@@ -483,7 +483,8 @@ transition: color var(--transition), border-color var(--transition) ;
     color:#2e2f42;
     text-decoration: none;
     padding: 24px 0;
-    transition: color var(--transition);
+    background-color: #404BBF;
+    /* transition: color var(--transition); */
     }
 /* .nav-link::after  {
         display: block;
