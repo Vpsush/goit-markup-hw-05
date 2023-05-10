@@ -168,7 +168,7 @@ border-radius: 2px;
     padding: 12px 24px;
     border: 1px solid #e7e9fc;   
     border-radius: 4px;
-    transition: background-color var(--transition), box-shadow var(--transition), border-color var(--logo-footer-portfolio) ;
+    transition: color var(--transition), background-color var(--transition), border-color var(--logo-footer-portfolio), box-shadow var(--transition);
       }
 .btn:hover,
 .btn:focus{
@@ -487,7 +487,7 @@ transition: color var(--transition), border-color var(--transition) ;
     /* background-color: #404BBF; */
     transition: color var(--transition);
     }
-/* .nav-link::after  {
+.nav-link::after  {
         display: block;
         content: "";
         position: absolute;
@@ -499,7 +499,7 @@ transition: color var(--transition), border-color var(--transition) ;
     background-color: #404BBF;
     border-radius: 2px;
     padding-bottom: 0;
-    } */
+    }
 .nav-link:hover,
 .nav-link:focus{
     color: #404bbf;
