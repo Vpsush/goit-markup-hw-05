@@ -550,9 +550,6 @@ transition: border-color var(--transition), color var(--transition) ;
     color: #2E2F42;
     margin-bottom: 72px;  
 }
-.section{
-}
-
 .section-buttons{
     padding: 96px 0 120px;
 }
