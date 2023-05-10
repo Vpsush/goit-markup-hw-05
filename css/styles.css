@@ -627,10 +627,10 @@ color: #FFFFFF;
         width: calc((100% - 48px) / 3);
        
     }
-.total-information:hover .overlay,
+/* .total-information:hover .overlay,
 .total-information:focus .overlay{
     transform: translateY(0%);
-}
+} */
 .total-information-link{
     position: relative;
     display: block;
