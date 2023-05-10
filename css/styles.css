@@ -637,8 +637,8 @@ color: #FFFFFF;
 .total-information-link:focus{
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
-.total-information-link:hover .total-information-list
-.total-information-link:focus .total-information-list{
+.total-information-link:hover .total-information
+.total-information-link:focus .total-information{
     transform: translateY(0%)
 }
 .total-information-list{
