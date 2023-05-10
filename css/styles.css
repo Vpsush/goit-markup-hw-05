@@ -641,6 +641,7 @@ color: #FFFFFF;
 .total-information-link:focus .total-information{
     transform: translateY(0%)
 }
+
 .total-information-list{
 position: relative;
 overflow: hidden;
