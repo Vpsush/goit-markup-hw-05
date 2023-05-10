@@ -258,7 +258,7 @@ align-items: center;
 justify-content: center;
 color: #8e8f99;
 height: 100%;
-transition: color var(--transition), border-color var(--transition) ;
+transition: border-color var(--transition), color var(--transition) ;
 
 }
 .customers-list-link:hover,
@@ -477,6 +477,7 @@ transition: color var(--transition), border-color var(--transition) ;
     margin-right: auto;
 }
 .nav-link{
+    position: relative;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
