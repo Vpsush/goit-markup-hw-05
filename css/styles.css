@@ -635,7 +635,7 @@ color: #FFFFFF;
 }
 .total-information-link:hover .overlay
 .total-information-link:focus .overlay{
-    transform: translateY(0%)
+    transform: translateY(0%);
 }
 .total-information-link:hover,
 .total-information-link:focus{
