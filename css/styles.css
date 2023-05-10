@@ -512,7 +512,6 @@ transition: border-color var(--transition), color var(--transition) ;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    
     transform: translateY(100%);
     color:#F4F4FD;
     background: rgba(77, 90, 229, 1);
@@ -560,7 +559,6 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #FFFFFF;
 margin-bottom: 16px;
-
 }
 .social-list{
     display: flex;
