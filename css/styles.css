@@ -633,8 +633,8 @@ color: #FFFFFF;
     display: block;
     transition:box-shadow var(--transition) ;
 }
-.total-information-link:hover .total-information-list
-.total-information-link:focus .total-information-list{
+.total-information-link:hover .overlay
+.total-information-link:focus .overlay{
     transform: translateY(0%)
 }
 .total-information-link:hover,
